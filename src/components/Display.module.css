@@ -1,0 +1,7 @@
+.display{
+    margin:5px 5px 5px 5px;
+    font-size: 25px;
+    width: 175px;
+    display: flex;
+    justify-self: center;
+}
